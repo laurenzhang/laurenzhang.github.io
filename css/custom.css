@@ -1,0 +1,21 @@
+.custom-a,
+.custom-a:hover {
+    color: #6768AD;
+    text-decoration-thickness: from-font;
+}
+.custom-a:hover {
+    opacity: 0.8;
+}
+
+.custom-body {
+    background-color: #F1EDEA;
+    font-family: "Titillium Web", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.custom-h1 {
+    color: #6768AD;
+    font-size: 6.0rem;
+    line-height: 1.8;
+    text-align: justify;
+    text-transform: uppercase;
+}
